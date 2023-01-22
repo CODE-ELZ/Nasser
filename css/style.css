@@ -6,8 +6,7 @@
 body{
     background-color: aliceblue;
 }
-
-@media screen and (max-width: 920px){
+@media (max-width:991px){
     body{
         background-color: #292423;
     }
